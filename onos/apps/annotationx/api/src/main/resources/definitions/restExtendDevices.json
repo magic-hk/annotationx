@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "id": "of:00000000000000a1",
+      "annotations": {
+        "importance": "high",
+        "latitude": "32.8",
+        "longitude": "-117.1"
+      }
+    }
+  ]
+}
